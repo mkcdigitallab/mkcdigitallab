@@ -4,7 +4,7 @@
 
 # 🚀 MKC Digital Lab
 
-### 💻 Développeur Web
+### 💻 Développeur Web en construction
 
 **PHP • Laravel • SQL • Docker • Git • GitHub • GitLab • CI/CD • Linux**
 
@@ -19,7 +19,9 @@
 
 ## 🧑‍💻 À propos de moi
 
-Je construis progressivement mon profil de **développeur logiciel**, avec une approche pratique, structurée et orientée vers les réalités d'un environnement professionnel.
+Je suis actuellement **en formation à la Sonatel Academy / École du Code**, et je construis progressivement mon profil de développeur logiciel.
+
+Même si je travaille déjà avec de nombreuses technologies et pratiques utilisées dans des projets professionnels, je considère mon parcours comme **un apprentissage en cours**. Mon objectif n'est pas de prétendre tout maîtriser, mais de comprendre de mieux en mieux **pourquoi**, **comment** et **quand** utiliser chaque outil.
 
 Je travaille particulièrement sur :
 
@@ -32,13 +34,32 @@ Je travaille particulièrement sur :
 - 🧪 qualité du code, tests et analyse statique ;
 - 🧠 conception, architecture, responsabilités et maintenabilité.
 
-Mon objectif est de passer progressivement de :
+### 🎯 Mon objectif
+
+Passer progressivement de :
 
 > **« Je sais faire fonctionner le code. »**
 
 à :
 
 > **« Je comprends pourquoi il fonctionne, je peux l'expliquer, le maintenir et le faire évoluer. »**
+
+---
+
+## 🧭 Où j'en suis aujourd'hui
+
+Je possède déjà une base pratique assez large : développement, bases de données, Git, Docker, CI/CD, modélisation et outils Linux.
+
+Mais je continue à renforcer notamment :
+
+- la logique et la résolution de problèmes ;
+- l'architecture et les responsabilités ;
+- les tests et la qualité logicielle ;
+- les serveurs et le déploiement ;
+- les bonnes pratiques utilisées en entreprise ;
+- ma capacité à concevoir une solution avant de coder.
+
+**Je suis donc un développeur en construction : je construis des projets réels tout en construisant mes compétences.**
 
 ---
 
@@ -65,9 +86,9 @@ Mon objectif est de passer progressivement de :
 
 ---
 
-## 🔥 Ce que je développe actuellement
+## 🔥 Ce que je pratique actuellement
 
-| Domaine | Compétences travaillées |
+| Domaine | Pratique |
 |---|---|
 | 🐘 PHP / Laravel | MVC, POO, Eloquent, migrations, validation, architecture |
 | 🗄️ Bases de données | SQL, MySQL, PostgreSQL, relations, modélisation |
@@ -76,7 +97,8 @@ Mon objectif est de passer progressivement de :
 | 🦊 GitLab | Issues, Merge Requests, Registry, Environments, Releases |
 | ⚙️ CI/CD | pipelines, contrôles automatisés, intégration |
 | 🧪 Qualité | tests, Pint, analyse statique, maintenabilité |
-| 🧠 Conception | responsabilités, principes, patterns et évolutivité |
+| 🧠 Conception | UML, modélisation, responsabilités, principes et évolutivité |
+| 🖥️ Linux / serveurs | terminal, environnement Linux, déploiement et services |
 
 ---
 
@@ -84,11 +106,11 @@ Mon objectif est de passer progressivement de :
 
 ### 🏢 Gestion des réservations de salles
 
-Mon projet principal d'apprentissage est une application Laravel développée **progressivement, par incréments**, avec des pratiques proches d'un projet professionnel.
+Mon projet principal d'apprentissage est une application Laravel développée **progressivement, par incréments**, avec une démarche inspirée des pratiques professionnelles.
 
 **Stack :** PHP • Laravel • MySQL • Docker • GitLab CI/CD
 
-### Ce que j'y travaille
+### Ce que j'y apprends et mets en pratique
 
 - conception et évolution du modèle de données ;
 - migrations Laravel comme source de vérité ;
@@ -99,7 +121,8 @@ Mon projet principal d'apprentissage est une application Laravel développée **
 - pipelines CI/CD ;
 - qualité du code et analyse statique ;
 - documentation et DevLogs ;
-- développement incrémental et releases.
+- développement incrémental et releases ;
+- diagnostic de problèmes réels rencontrés pendant le développement.
 
 🔗 **[Voir le projet sur GitHub](https://github.com/mkcdigitallab/Reservation-Salles)**  
 🔗 **[Voir le projet sur GitLab](https://gitlab.com/mkcdigitallab/reservation-salles)**
@@ -127,12 +150,13 @@ Mon projet principal d'apprentissage est une application Laravel développée **
 
 </div>
 
-Je ne cherche pas uniquement à accumuler des technologies.
+Je ne cherche pas simplement à accumuler des technologies.
 
 Je veux développer les capacités qui permettent de travailler réellement sur un projet :
 
 - comprendre un besoin ;
 - découper un problème ;
+- concevoir avant de coder ;
 - choisir une solution adaptée ;
 - écrire du code compréhensible ;
 - diagnostiquer une erreur ;
@@ -142,6 +166,20 @@ Je veux développer les capacités qui permettent de travailler réellement sur 
 - documenter les décisions ;
 - faire évoluer un projet sans tout casser.
 
+**Chaque erreur rencontrée fait partie de ma formation. Chaque projet est une occasion de progresser.**
+
+---
+
+## 🎓 Formation & progression
+
+### Sonatel Academy — École du Code
+
+**Formation en cours**
+
+Je suis encore étudiant et je poursuis ma formation. Les projets présents ici représentent donc aussi **mon parcours d'apprentissage** : certains sont des exercices, d'autres des projets plus complets construits pour développer une expérience pratique.
+
+Je préfère montrer une progression réelle plutôt que donner l'impression d'avoir déjà terminé mon parcours.
+
 ---
 
 ## 🎯 Mes objectifs
@@ -149,12 +187,13 @@ Je veux développer les capacités qui permettent de travailler réellement sur 
 ### Aujourd'hui
 
 - renforcer ma logique de programmation ;
-- devenir autonome en PHP et Laravel ;
-- maîtriser SQL et la modélisation des données ;
+- devenir de plus en plus autonome en PHP et Laravel ;
+- approfondir SQL et la modélisation des données ;
 - comprendre réellement Docker ;
-- maîtriser Git, GitHub et GitLab ;
+- consolider Git, GitHub et GitLab ;
 - comprendre la CI/CD et les pratiques de qualité ;
-- apprendre à concevoir des projets évolutifs.
+- progresser en architecture et conception ;
+- apprendre à construire des projets évolutifs.
 
 ### Demain
 
@@ -162,7 +201,7 @@ Je veux développer les capacités qui permettent de travailler réellement sur 
 
 ### Vision
 
-**MKC Digital Lab** est le projet qui porte cette ambition : apprendre, construire et progressivement créer des solutions numériques pour les écoles, institutions, entreprises et utilisateurs.
+**MKC Digital Lab** porte cette ambition : apprendre, construire et progressivement créer des solutions numériques pour les écoles, institutions, entreprises et utilisateurs.
 
 ---
 
@@ -193,7 +232,7 @@ Je veux développer les capacités qui permettent de travailler réellement sur 
 
 ### ⭐ Bienvenue sur mon profil
 
-**Build • Learn • Evolve**
+**BUILD • LEARN • EVOLVE**
 
 *Je construis aujourd'hui les compétences qui me permettront de créer demain.*
 

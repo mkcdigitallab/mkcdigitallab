@@ -1,90 +1,150 @@
-# 👋 Bonjour, moi c'est Malang Kiya Cissé
+# 👋 Salut, moi c'est Malang Kiya Cissé
 
-💻 **Développeur web en progression** | 🐘 PHP & Laravel | 🐳 Docker | 🐙 Git & GitHub | 🦊 GitLab
+<div align="center">
 
-Je construis progressivement mes compétences en développement logiciel avec une approche très pratique : comprendre les principes, écrire du code maintenable et apprendre les pratiques utilisées dans les projets professionnels.
+### 💻 Développeur Web en progression
 
-## 🚀 Ce que je fais actuellement
+**PHP • Laravel • SQL • Docker • Git • GitLab • Linux**
 
-- 🔨 Développement d'applications web avec **PHP / Laravel**
-- 🗄️ Travail avec **MySQL** et **PostgreSQL**
-- 🐳 Conteneurisation et environnement de développement avec **Docker**
-- 🌿 Gestion de versions avec **Git, GitHub et GitLab**
-- ⚙️ Découverte de la **CI/CD** et des workflows de développement
-- 🧩 Travail sur l'architecture, les bases de données, les tests et la qualité du code
+*J'apprends en construisant. Je progresse en comprenant. Je vise l'autonomie.*
 
-## 🛠️ Technologies & outils
-
-### Backend
-- PHP
-- Laravel
-- PDO
-- Architecture MVC
-- Programmation orientée objet
-
-### Bases de données
-- MySQL
-- PostgreSQL
-- SQL
-
-### DevOps & outils
-- Git
-- GitHub
-- GitLab
-- Docker
-- Linux
-- Composer
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Blade
-
-## 📚 Mon parcours d'apprentissage
-
-Je cherche à aller au-delà du simple fait de faire fonctionner une application.
-
-Mon objectif est de comprendre :
-
-- pourquoi une solution est choisie ;
-- comment organiser un projet pour qu'il puisse évoluer ;
-- comment travailler avec Git et GitLab dans un contexte professionnel ;
-- comment automatiser les contrôles avec la CI/CD ;
-- comment concevoir des bases de données cohérentes ;
-- comment écrire du code lisible, testable et maintenable.
-
-## 🔨 Projets
-
-Quelques projets présents sur mon profil :
-
-- **Reservation-Salles** — application autour de la gestion de réservations de salles.
-- **fastfood-mvc** — projet PHP basé sur une organisation MVC.
-- **vtc-mvc-php** — application PHP autour d'un système VTC.
-- **gestionNotePOO** — exercice de gestion de notes avec la programmation orientée objet.
-- **StoreManager-Pro** — projet de gestion.
-- **BibliothequeUniversitaire** — projet de gestion de bibliothèque.
-- **Gestion-Ateliers** — projet de gestion d'ateliers.
-
-👉 Je construis ces projets pour transformer progressivement mes connaissances théoriques en compétences pratiques.
-
-## 🎯 Objectifs
-
-À court terme :
-
-- devenir autonome dans la conception et le développement d'applications ;
-- renforcer mes bases en PHP, Laravel, SQL, Docker et Git ;
-- apprendre les bonnes pratiques de développement professionnel ;
-- être capable de comprendre, maintenir et faire évoluer un projet existant.
-
-À plus long terme :
-
-🚀 **Construire des produits technologiques utiles et développer MKC Digital Lab.**
-
-## 📫 Me retrouver
-
-- GitHub : [@mkcdigitallab](https://github.com/mkcdigitallab)
+</div>
 
 ---
 
-⭐ *J'apprends en construisant, je progresse en comprenant et je cherche à devenir chaque jour plus autonome.*
+## 🚀 À propos de moi
+
+Je construis progressivement mon profil de **développeur logiciel**, avec une approche orientée pratique et professionnelle.
+
+Je m'intéresse particulièrement à la conception d'applications web, à la qualité du code, aux bases de données, à Docker, au versionnement et aux workflows **Git/GitLab/CI/CD**.
+
+Mon objectif n'est pas seulement de faire fonctionner une application : je veux comprendre **pourquoi** les choix techniques sont faits et savoir faire évoluer un projet proprement.
+
+---
+
+## 🧰 Stack & outils
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Ce que je travaille actuellement
+
+- 🐘 **PHP & Laravel** — MVC, POO, modèles, migrations, validation et architecture
+- 🗄️ **SQL** — MySQL & PostgreSQL, conception et relations
+- 🐳 **Docker** — environnements reproductibles et services conteneurisés
+- 🦊 **GitLab** — branches, merge requests, issues, registry, environnements
+- ⚙️ **CI/CD** — automatisation des contrôles et intégration
+- 🧪 **Qualité du code** — tests, linting, analyse statique et maintenabilité
+- 🧠 **Conception** — apprendre à construire des applications capables d'évoluer
+
+---
+
+## 🚧 Projet fil rouge
+
+### 🏢 Reservation-Salles
+
+Application Laravel de **gestion des réservations de salles**, développée progressivement avec une démarche incrémentale.
+
+**Technologies :** Laravel • PHP • MySQL • Docker • GitLab CI/CD
+
+Le projet me permet de travailler sur des pratiques proches d'un environnement professionnel :
+
+- conception du modèle de données ;
+- migrations Laravel ;
+- relations Eloquent ;
+- Docker et environnement de développement ;
+- GitLab Issues / Merge Requests ;
+- pipelines CI/CD ;
+- qualité et analyse statique ;
+- documentation et DevLogs.
+
+👉 [Voir le projet Reservation-Salles](https://github.com/mkcdigitallab/Reservation-Salles)
+
+---
+
+## 📂 Quelques projets
+
+| Projet | Description |
+|---|---|
+| 🍔 **fastfood-mvc** | Application PHP organisée selon MVC |
+| 🚗 **vtc-mvc-php** | Projet PHP autour d'un système VTC |
+| 🎓 **gestionNotePOO** | Gestion de notes avec la POO |
+| 📦 **StoreManager-Pro** | Projet de gestion |
+| 📚 **BibliothequeUniversitaire** | Gestion d'une bibliothèque |
+| 🛠️ **Gestion-Ateliers** | Projet de gestion d'ateliers |
+
+---
+
+## 🧠 Ma manière d'apprendre
+
+> **Comprendre → pratiquer → se tromper → corriger → documenter → recommencer.**
+
+Je cherche progressivement à passer de :
+
+**« Je sais faire fonctionner le code »**
+
+à :
+
+**« Je comprends le code, je peux l'expliquer, le maintenir et le faire évoluer. »**
+
+---
+
+## 🎯 Objectifs
+
+### Court terme
+
+- devenir autonome dans le développement d'applications ;
+- consolider PHP, Laravel, SQL, Docker et Git ;
+- maîtriser les workflows GitLab et CI/CD ;
+- améliorer ma logique et mes capacités de conception ;
+- apprendre à travailler comme sur un projet professionnel.
+
+### Long terme
+
+🚀 **Construire des produits technologiques utiles et développer MKC Digital Lab.**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mkcdigitallab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkcdigitallab&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 🤝 Me retrouver
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mkcdigitallab-181717?style=for-the-badge&logo=github)](https://github.com/mkcdigitallab)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Merci de visiter mon profil
+
+*Je construis aujourd'hui les compétences qui me permettront de créer demain.*
+
+</div>

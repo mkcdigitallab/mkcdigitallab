@@ -2,9 +2,11 @@
 
 <div align="center">
 
+# 🚀 MKC Digital Lab
+
 ### 💻 Développeur Web en progression
 
-**PHP • Laravel • SQL • Docker • Git • GitLab • Linux**
+**PHP • Laravel • SQL • Docker • Git • GitLab • CI/CD • Linux**
 
 *J'apprends en construisant. Je progresse en comprenant. Je vise l'autonomie.*
 
@@ -12,13 +14,21 @@
 
 ---
 
-## 🚀 À propos de moi
+## 🧑‍💻 À propos de moi
 
-Je construis progressivement mon profil de **développeur logiciel**, avec une approche orientée pratique et professionnelle.
+Je construis progressivement mon profil de **développeur logiciel**, avec une approche pratique et professionnelle.
 
-Je m'intéresse particulièrement à la conception d'applications web, à la qualité du code, aux bases de données, à Docker, au versionnement et aux workflows **Git/GitLab/CI/CD**.
+Je travaille particulièrement sur :
 
-Mon objectif n'est pas seulement de faire fonctionner une application : je veux comprendre **pourquoi** les choix techniques sont faits et savoir faire évoluer un projet proprement.
+- 🌐 le développement d'applications web ;
+- 🐘 PHP et Laravel ;
+- 🗄️ SQL, MySQL et PostgreSQL ;
+- 🐳 Docker et les environnements reproductibles ;
+- 🦊 GitLab, Git et les workflows collaboratifs ;
+- ⚙️ CI/CD, qualité du code et automatisation ;
+- 🧠 conception, architecture et maintenabilité.
+
+Mon objectif est de passer progressivement de **« je sais faire fonctionner le code »** à **« je comprends, j'explique, je maintiens et je fais évoluer le code »**.
 
 ---
 
@@ -44,13 +54,15 @@ Mon objectif n'est pas seulement de faire fonctionner une application : je veux 
 
 ## 🔥 Ce que je travaille actuellement
 
-- 🐘 **PHP & Laravel** — MVC, POO, modèles, migrations, validation et architecture
-- 🗄️ **SQL** — MySQL & PostgreSQL, conception et relations
-- 🐳 **Docker** — environnements reproductibles et services conteneurisés
-- 🦊 **GitLab** — branches, merge requests, issues, registry, environnements
-- ⚙️ **CI/CD** — automatisation des contrôles et intégration
-- 🧪 **Qualité du code** — tests, linting, analyse statique et maintenabilité
-- 🧠 **Conception** — apprendre à construire des applications capables d'évoluer
+| Domaine | Travail en cours |
+|---|---|
+| 🐘 PHP / Laravel | MVC, POO, migrations, modèles, validation, architecture |
+| 🗄️ Bases de données | SQL, MySQL, PostgreSQL, relations |
+| 🐳 Docker | conteneurs, services, environnements de développement |
+| 🦊 GitLab | branches, Issues, Merge Requests, Registry, Environments |
+| ⚙️ CI/CD | pipelines, contrôles automatisés, intégration |
+| 🧪 Qualité | tests, linting, analyse statique, maintenabilité |
+| 🧠 Conception | projets évolutifs, responsabilités et bonnes pratiques |
 
 ---
 
@@ -60,47 +72,50 @@ Mon objectif n'est pas seulement de faire fonctionner une application : je veux 
 
 Application Laravel de **gestion des réservations de salles**, développée progressivement avec une démarche incrémentale.
 
-**Technologies :** Laravel • PHP • MySQL • Docker • GitLab CI/CD
+**Stack :** Laravel • PHP • MySQL • Docker • GitLab CI/CD
 
-Le projet me permet de travailler sur des pratiques proches d'un environnement professionnel :
+Ce projet me permet de travailler sur :
 
 - conception du modèle de données ;
-- migrations Laravel ;
-- relations Eloquent ;
-- Docker et environnement de développement ;
-- GitLab Issues / Merge Requests ;
+- migrations et relations Eloquent ;
+- Docker ;
+- GitLab Issues et Merge Requests ;
 - pipelines CI/CD ;
-- qualité et analyse statique ;
-- documentation et DevLogs.
+- analyse statique et qualité du code ;
+- documentation et DevLogs ;
+- développement incrémental.
 
-👉 [Voir le projet Reservation-Salles](https://github.com/mkcdigitallab/Reservation-Salles)
+👉 **[Voir Reservation-Salles](https://github.com/mkcdigitallab/Reservation-Salles)**
 
 ---
 
-## 📂 Quelques projets
+## 📂 Projets
 
-| Projet | Description |
-|---|---|
-| 🍔 **fastfood-mvc** | Application PHP organisée selon MVC |
-| 🚗 **vtc-mvc-php** | Projet PHP autour d'un système VTC |
-| 🎓 **gestionNotePOO** | Gestion de notes avec la POO |
-| 📦 **StoreManager-Pro** | Projet de gestion |
-| 📚 **BibliothequeUniversitaire** | Gestion d'une bibliothèque |
-| 🛠️ **Gestion-Ateliers** | Projet de gestion d'ateliers |
+- 🍔 **[fastfood-mvc](https://github.com/mkcdigitallab/fastfood-mvc)** — application PHP organisée selon MVC
+- 🚗 **[vtc-mvc-php](https://github.com/mkcdigitallab/vtc-mvc-php)** — projet PHP autour d'un système VTC
+- 🎓 **[gestionNotePOO](https://github.com/mkcdigitallab/gestionNotePOO)** — gestion de notes avec la POO
+- 📦 **[StoreManager-Pro](https://github.com/mkcdigitallab/StoreManager-Pro)** — projet de gestion
+- 📚 **[BibliothequeUniversitaire](https://github.com/mkcdigitallab/BibliothequeUniversitaire)** — gestion d'une bibliothèque
+- 🛠️ **[Gestion-Ateliers](https://github.com/mkcdigitallab/Gestion-Ateliers)** — projet de gestion d'ateliers
 
 ---
 
 ## 🧠 Ma manière d'apprendre
 
-> **Comprendre → pratiquer → se tromper → corriger → documenter → recommencer.**
+<div align="center">
 
-Je cherche progressivement à passer de :
+**COMPRENDRE → PRATIQUER → SE TROMPER → CORRIGER → DOCUMENTER → RECOMMENCER**
 
-**« Je sais faire fonctionner le code »**
+</div>
 
-à :
+Je veux développer de vraies capacités d'autonomie :
 
-**« Je comprends le code, je peux l'expliquer, le maintenir et le faire évoluer. »**
+- comprendre les décisions techniques ;
+- savoir expliquer mon code ;
+- diagnostiquer les problèmes ;
+- utiliser Git et GitLab correctement ;
+- construire des projets capables d'évoluer ;
+- apprendre les pratiques utilisées dans un environnement professionnel.
 
 ---
 
@@ -110,9 +125,9 @@ Je cherche progressivement à passer de :
 
 - devenir autonome dans le développement d'applications ;
 - consolider PHP, Laravel, SQL, Docker et Git ;
-- maîtriser les workflows GitLab et CI/CD ;
-- améliorer ma logique et mes capacités de conception ;
-- apprendre à travailler comme sur un projet professionnel.
+- maîtriser GitLab et la CI/CD ;
+- renforcer ma logique et mes capacités de conception ;
+- apprendre à maintenir et faire évoluer un projet existant.
 
 ### Long terme
 
@@ -125,13 +140,14 @@ Je cherche progressivement à passer de :
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mkcdigitallab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkcdigitallab&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
 ---
 
-## 🤝 Me retrouver
+## 🤝 Connect
 
 <div align="center">
 
@@ -143,8 +159,10 @@ Je cherche progressivement à passer de :
 
 <div align="center">
 
-### ⭐ Merci de visiter mon profil
+### ⭐ Bienvenue sur mon profil
 
 *Je construis aujourd'hui les compétences qui me permettront de créer demain.*
+
+**MKC Digital Lab • Build • Learn • Evolve**
 
 </div>

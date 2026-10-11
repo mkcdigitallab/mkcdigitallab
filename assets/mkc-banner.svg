@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">MKC Digital Lab</title>
+  <desc id="desc">Malang Kiya Cissé — développeur web, construire des solutions utiles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d1b"/>
+      <stop offset="0.58" stop-color="#111b36"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#94a3b8" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="1010" cy="64" r="180" fill="#7c3aed" opacity=".14"/>
+  <circle cx="1090" cy="315" r="170" fill="#06b6d4" opacity=".12"/>
+  <path d="M870 0L1200 0 1200 360 1040 360Z" fill="url(#accent)" opacity=".08"/>
+  <g transform="translate(74 76)">
+    <rect width="66" height="66" rx="18" fill="url(#accent)"/>
+    <path d="M17 46V20h7l9 14 9-14h7v26h-7V31l-9 13-9-13v15z" fill="#08111f"/>
+    <circle cx="56" cy="11" r="5" fill="#e0f2fe"/>
+  </g>
+  <text x="74" y="190" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-1.2">MKC Digital Lab</text>
+  <rect x="76" y="212" width="84" height="4" rx="2" fill="url(#accent)"/>
+  <text x="74" y="258" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Malang Kiya Cissé</text>
+  <text x="74" y="296" fill="#a5b4fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Développement web · Architecture · Projets utiles</text>
+  <g transform="translate(900 120)" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <path d="M0 35L30 10 60 35 30 60Z"/>
+    <path d="M48 0L78 25 48 50"/>
+    <path d="M75 50L105 75 75 100"/>
+    <path d="M25 90L55 115 85 90"/>
+    <circle cx="112" cy="12" r="5" fill="#38bdf8" stroke="none"/>
+    <circle cx="5" cy="92" r="4" fill="#a78bfa" stroke="none"/>
+  </g>
+</svg>

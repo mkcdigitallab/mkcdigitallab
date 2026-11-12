@@ -1,6 +1,10 @@
 ![Bannière MKC Digital Lab](assets/mkc-banner.svg)
 
 <div align="center">
+  <img src="https://malang-kiya-cisse-portfolio.onrender.com/assets/malang-avatar.webp" width="150" alt="Portrait de Malang Kiya Cissé" />
+</div>
+
+<div align="center">
 
 ### Développeur web · Construire, comprendre, faire évoluer
 
